@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Go Redirects URL Forwarder
  * Description: A super-simple URL forwarder WordPress.
- * Version:     2.0.3
+ * Version:     2.0.4
  * Author:      WPKube
  * Author URI:  https://www.wpkube.com/
  * License:     GPL2+
@@ -13,7 +13,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'GR_VERSION', '2.0.3' );
+define( 'GR_VERSION', '2.0.4' );
 define( 'GR_FILE',    __FILE__ );
 define( 'GR_PATH',    plugin_dir_path( GR_FILE ) );
 define( 'GR_URL',     plugin_dir_url( GR_FILE ) );

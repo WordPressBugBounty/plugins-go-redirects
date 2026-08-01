@@ -2,9 +2,11 @@
 Contributors:      WPKube
 Tags:              redirects, redirect, affiliate, affiliate link, url mask
 Requires at least: 4.7
-Tested up to:      5.8
-Requires PHP:      5.4
-Stable tag:        trunk
+Tested up to:      7.0
+Requires PHP:      7.4
+Stable tag:        2.0.4
+License:           GPLv2 or later
+License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
 A URL forwarder for WordPress.
 
@@ -32,6 +34,9 @@ Go to Settings → Permalinks and resave your permalink settings.
 There is no setting to do so at this time.
 
 == Changelog ==
+= 2.0.4 = 
+* WordPress 7.0 compatibility
+
 = 2.0.3 = 
 * Fixed issue with "copy to clipboard" button
 
